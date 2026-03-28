@@ -1,0 +1,81 @@
+{
+  "config": {
+    "generations": 6,
+    "offspring": 8,
+    "games": 40,
+    "sigma": 0.15,
+    "seed": 42,
+    "workers": 8
+  },
+  "history": [
+    {
+      "generation": 1,
+      "parent_score": 0.625,
+      "best_child": 0.6125,
+      "all_time_best": 0.625,
+      "improved": false,
+      "elapsed_s": 207.86
+    },
+    {
+      "generation": 2,
+      "parent_score": 0.625,
+      "best_child": 0.6125,
+      "all_time_best": 0.625,
+      "improved": false,
+      "elapsed_s": 249.44
+    },
+    {
+      "generation": 3,
+      "parent_score": 0.6375,
+      "best_child": 0.6375,
+      "all_time_best": 0.6375,
+      "improved": true,
+      "elapsed_s": 251.3
+    },
+    {
+      "generation": 4,
+      "parent_score": 0.6375,
+      "best_child": 0.55,
+      "all_time_best": 0.6375,
+      "improved": false,
+      "elapsed_s": 245.43
+    },
+    {
+      "generation": 5,
+      "parent_score": 0.6375,
+      "best_child": 0.6125,
+      "all_time_best": 0.6375,
+      "improved": false,
+      "elapsed_s": 241.02
+    },
+    {
+      "generation": 6,
+      "parent_score": 0.6375,
+      "best_child": 0.5625,
+      "all_time_best": 0.6375,
+      "improved": false,
+      "elapsed_s": 230.73
+    }
+  ],
+  "best_score": 0.6375,
+  "best_weights": {
+    "area_multiplier": 2.972117569410944,
+    "area_trap_5": -39845.95719240553,
+    "area_trap_10": -10171.809767993467,
+    "area_trap_half": -2442.982658374126,
+    "area_trap_length": -991.3313206497517,
+    "apple_early": 16.38168683864979,
+    "apple_late_ahead": 4.00314622507461,
+    "apple_behind": 16.112753472015974,
+    "apple_normal": 10.257391521993776,
+    "apple_pickup_bonus": 656.0564945341248,
+    "enemy_head_behind": -10441.287580734122,
+    "enemy_head_ahead": -3064.0707684019617,
+    "enemy_head_equal": -5891.733931338996,
+    "enemy_reach_danger": -2307.0854367135303,
+    "enemy_reach_safe": -357.30310660305173,
+    "late_ahead_bonus": 124.69555180900585,
+    "behind_bonus": 61.59062841705836,
+    "centre_weight": 0.2383315823337772
+  }
+}

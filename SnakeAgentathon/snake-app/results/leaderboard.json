@@ -1,0 +1,32 @@
+[
+  {
+    "name": "team_hybrid",
+    "points": 37.75,
+    "wins": 17,
+    "draws": 83,
+    "losses": 0,
+    "total_apples": 90,
+    "games_played": 100,
+    "rank": 1
+  },
+  {
+    "name": "team_random",
+    "points": 25.0,
+    "wins": 0,
+    "draws": 100,
+    "losses": 0,
+    "total_apples": 0,
+    "games_played": 100,
+    "rank": 2
+  },
+  {
+    "name": "team_greedy",
+    "points": 20.75,
+    "wins": 0,
+    "draws": 83,
+    "losses": 17,
+    "total_apples": 110,
+    "games_played": 100,
+    "rank": 3
+  }
+]

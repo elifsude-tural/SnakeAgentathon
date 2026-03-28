@@ -1,0 +1,10 @@
+name: snake-arena
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - pip
+  - pip:
+    - pygame>=2.5
